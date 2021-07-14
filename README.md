@@ -1,7 +1,7 @@
 # GAME-A-THON-TASK
 ## Name : Anushka Zade
 ### Problem Statement 1 : Functions & Function Prototypes
-Test Case : Input : name = anushka age , age = 20 , Output : anushka 20
+Test Case : Input : name = anushka , age = 20 , Output : anushka 20
 
 ```c
 
